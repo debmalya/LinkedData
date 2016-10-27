@@ -1,0 +1,4 @@
+@prefix dbo: <http://dbpedia.org/ontology/> .
+@base  <http://dbpedia.org/resource/> .
+<Pluto> dbo:discovered "1930" ;
+        dbo:discoverer <Clyde_Tombaugh> .

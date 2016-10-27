@@ -1,0 +1,18 @@
+@prefix dbo:   <http://dbpedia.org/ontology/> .
+@prefix xsd:   <http://www.w3c.org/2001/XMLSchema#> .
+@prefix rdfs:  <http://www.w3.org/2000/01/rdf-schema#> .
+@base <http://dbpedia.org/resource/> .
+
+<Clyde_Tombaugh>
+        rdfs:label      "Clyde_Tombaugh"@en ;
+        dbo:discoverer  [ dbo:asteroid    <2839_Annette> ;
+                          dbo:discovered  "1929-10-05"^^xsd:date
+                        ] ,
+                                  [ dbo:asteroid    <3754_Kathleen> ;
+                          dbo:discovered  "1931-03-16"^^xsd:date
+                        ] ;
+        dbo:relative    <Richard_Tombaugh> , <Matthew_Tombaugh> , <Clyde_Kershaw> .
+<Clyde_Kershaw>
+                dbo:birthPlace <Dallas> ;
+                dbo:team <Los_Angeles_Dodgers> ;
+                dbo:position <Starting_pitcher> .

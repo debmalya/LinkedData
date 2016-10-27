@@ -1,0 +1,7 @@
+{ "@id" :   "http://dbpedia.org/resource/Pluto" ,
+   "http://dbpedia.org/ontology/discovered" :
+         { "@value" : "1930" }
+,
+   "http://dbpedia.org/ontology/discoverer" :
+   { "@id" : "http://dbpedia.org/resource/Clyde_Tombaugh"}
+ }

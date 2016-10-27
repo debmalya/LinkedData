@@ -1,0 +1,8 @@
+@prefix dbpedia: <http://dbpedia.org/resource/> .
+@prefix rdf:     <http://www.w3.org/1999/02/22-rdf-syntax-ns#> .
+@prefix ex:      <http://example.org/Crimestories#> .
+dbpedia:Bart_Simpson ex:says [
+  a rdf:Statement ;
+  rdf:subject   dbpedia:Milhouse_Van_Houten ;
+  rdf:predicate ex:loves ;
+  rdf:object    dbpedia:Lisa_Simpson ] .
