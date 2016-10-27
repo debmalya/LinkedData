@@ -1,0 +1,10 @@
+Use the cURL command line tool to access the DBpedia resource of the Space Shuttle (http://dbpedia.org/resource/Space_Shuttle).
+
+Proper Semantic Web servers are configured to redirect Semantic Web applications to RDF documents, while plain Web browsers are sent to HTML documents. You will experience this behavior in your browser, when requesting the Space Shuttle resource. To simulate a Semantic Web application, you need to add an HTTP header "Accept: text/turtle" to the request. This is done using cURL’s --header parameter:
+curl --head --header "Accept: text/turtle" "http://dbpedia.org/resource/Space_Shuttle"
+Upon this request the server will respond with the URL for the resource's Turtle version. You may then request this Turtle document with
+curl <put Location here>
+
+
+curl http://dbpedia.org/data/Space_Shuttle.ttl > SpaceShuttle.ttl
+cat SpaceShuttle.ttl | grep "@prefix" | wc -l
