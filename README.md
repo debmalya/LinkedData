@@ -1,5 +1,5 @@
 # LinkedData
-Studied LinkedData Engineering from [open.hpi.de] (http://open.hpi.de) . Thanks to __Prof. Dr. Harald Sack__ of _FIZ Karlsruhe - Leibniz Institute for Information Infrastructure & Karlsruhe Institute of Technology_,  and also worked on linked data for the period 2012 - 2013. Try to gather all those experiences in one place.
+Studied LinkedData Engineering at [open.hpi.de] (http://open.hpi.de) . Thanks to __Prof. Dr. Harald Sack__ of _FIZ Karlsruhe - Leibniz Institute for Information Infrastructure & Karlsruhe Institute of Technology_ for this nice course,  and also worked on linked data for the period 2012 - 2013. Try to gather all those experiences in one place.
 
 ## Common Abbreviation
 * _URI_ [Uniform Resource Identifier] (https://en.wikipedia.org/wiki/Uniform_Resource_Identifier)
