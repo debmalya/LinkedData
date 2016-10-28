@@ -6,6 +6,7 @@ Studied LinkedData Engineering at [open.hpi.de] (http://open.hpi.de) . Thanks to
 * _RDF_ [Resource Description Framework] (https://www.w3.org/RDF/) 
 * _RDFS_ [RDF Schema] (https://www.w3.org/2001/sw/wiki/RDFS) RDF Vocabulary Description Language
 
+
 ### Resource
 Resource can be uniquely identifiable and referenceable via URI.
 
@@ -26,10 +27,29 @@ RDF is expressed as list of statments. Each statement is a _RDF triple_ ( subjec
 * Bag - Unordered set
 * Alt - Alternatives
 
+##### RDFa attributes
+* vocab
+* typeof
+* property
+* resource
+* about
+* prefix
+
+##### Microdata global attributes
+* itemscope
+* itemtype
+* itemid
+* itemref
+
+
 __Balnk Nodes__
 Blank nodes are useful to represent multi valued list.
 
 __References__
 [Data Types] (http://www.w3.org/TR/2013/WD-rdf11-concepts-20130115/#xsd-datatypes)
 [RDFS Language Model] (https://www.w3.org/TR/rdf-schema/#ch_classes)
+[RDFa] (https://rdfa.info/)
+[HTML5 Microdata] (http://schema.org/)
+[Google Structured Data Testing Tool] (https://search.google.com/structured-data/testing-tool) 
+[Raptor RDF Syntax Library] (http://librdf.org/raptor/)
 
