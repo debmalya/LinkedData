@@ -52,4 +52,5 @@ __References__
 [HTML5 Microdata] (http://schema.org/)
 [Google Structured Data Testing Tool] (https://search.google.com/structured-data/testing-tool) 
 [Raptor RDF Syntax Library] (http://librdf.org/raptor/)
-
+[linkedata.org] (http://linkeddata.org/home)
+[Linked Data Developer] (http://linkeddatadeveloper.com/)
