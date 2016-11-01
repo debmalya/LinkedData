@@ -54,3 +54,6 @@ __References__
 [Raptor RDF Syntax Library] (http://librdf.org/raptor/)
 [linkedata.org] (http://linkeddata.org/home)
 [Linked Data Developer] (http://linkeddatadeveloper.com/)
+[Linked Open Vocabulary] (https://lov.okfn.org/dataset/lov/)
+[Linked Open Data] (http://lod-cloud.net/)
+
