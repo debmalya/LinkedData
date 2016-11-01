@@ -56,4 +56,4 @@ __References__
 [Linked Data Developer] (http://linkeddatadeveloper.com/)
 [Linked Open Vocabulary] (https://lov.okfn.org/dataset/lov/)
 [Linked Open Data] (http://lod-cloud.net/)
-
+[FOAF Project] (http://www.foaf-project.org/)
