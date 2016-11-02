@@ -1,0 +1,13 @@
+@prefix rdf: <http://www.w3.org/1999/02/22-rdf-syntax-ns#> . 
+@prefix rdfs: <http://www.w3.org/2000/01/rdf-schema#> . 
+@prefix foaf: <http://xmlns.com/foaf/0.1/> .
+<#me>
+http://www.foaf-project.org/
+a foaf:Person ;
+foaf:name "John Sacked" ;
+foaf:mbox <mailto:john.john_sackeded@nocompany.nojob> ;
+foaf:homepage <https://nocompany.nojob/meinel/lehrstuhl/team-fotos/senior-researcher/john_sacked.html> ; foaf:depiction <https://nocompany.nojob/fileadmin/_migrated/pics/nocompany_nojob.jpg> ;
+foaf:interest <http://linkeddata.org> ;
+foaf:knows [
+a foaf:Person ; foaf:name "Captain Nemo"
+ ].
