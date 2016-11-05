@@ -5,6 +5,7 @@ Studied LinkedData Engineering __LDE16__ at [open.hpi.de] (http://open.hpi.de) .
 * _URI_ [Uniform Resource Identifier] (https://en.wikipedia.org/wiki/Uniform_Resource_Identifier)
 * _RDF_ [Resource Description Framework] (https://www.w3.org/RDF/) 
 * _RDFS_ [RDF Schema] (https://www.w3.org/2001/sw/wiki/RDFS) RDF Vocabulary Description Language
+* _OWL_ [Web Ontology Language] (https://www.w3.org/OWL/)
 
 
 ### Resource
