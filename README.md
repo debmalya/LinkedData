@@ -6,7 +6,7 @@ Studied LinkedData Engineering __LDE16__ at [open.hpi.de] (http://open.hpi.de) .
 * _RDF_ [Resource Description Framework] (https://www.w3.org/RDF/) 
 * _RDFS_ [RDF Schema] (https://www.w3.org/2001/sw/wiki/RDFS) RDF Vocabulary Description Language
 * _OWL_ [Web Ontology Language] (https://www.w3.org/OWL/)
-
+* _SKOS_ [Simple Knowledge Organization System] (https://www.w3.org/2004/02/skos/)
 
 ### Resource
 Resource can be uniquely identifiable and referenceable via URI.
@@ -42,6 +42,16 @@ RDF is expressed as list of statments. Each statement is a _RDF triple_ ( subjec
 * itemid
 * itemref
 
+##### SKOS
+* skos:Concept
+* skos:narrower
+* skos:broader
+* skos:related
+* skos:exactMatch
+* skos:narrowMatch
+* skos:broadMatch
+* skos:relatedMatch
+
 
 __Balnk Nodes__
 Blank nodes are useful to represent multi valued list.
@@ -58,3 +68,4 @@ __References__
 [Linked Open Vocabulary] (https://lov.okfn.org/dataset/lov/)
 [Linked Open Data] (http://lod-cloud.net/)
 [FOAF Project] (http://www.foaf-project.org/)
+[Linked Open Data Cloud] (http://linkeddatacatalog.dws.informatik.uni-mannheim.de/state/)
