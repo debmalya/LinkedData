@@ -7,7 +7,7 @@ Studied LinkedData Engineering __LDE16__ at [open.hpi.de] (http://open.hpi.de) .
 * _RDFS_ [RDF Schema] (https://www.w3.org/2001/sw/wiki/RDFS) RDF Vocabulary Description Language
 * _OWL_ [Web Ontology Language] (https://www.w3.org/OWL/)
 * _SKOS_ [Simple Knowledge Organization System] (https://www.w3.org/2004/02/skos/)
-* _UMBEL_ Upper Mapping and Binding Exchange Layer
+* _UMBEL_ Upper Mapping and Binding Exchange Layer (http://www.umbel.org/)
 
 ### Resource
 Resource can be uniquely identifiable and referenceable via URI.
@@ -58,7 +58,7 @@ __Balnk Nodes__
 Blank nodes are useful to represent multi valued list.
 
 __References__
-[Data Types] (http://www.w3.org/TR/2013/WD-rdf11-concepts-20130115/#xsd-datatypes)
+[Data Types] (http://www.w3.org/TR/2013/WD-rdf11-concepts-20130115/#xsd-datatypes),
 [RDFS Language Model] (https://www.w3.org/TR/rdf-schema/#ch_classes)
 [RDFa] (https://rdfa.info/)
 [HTML5 Microdata] (http://schema.org/)
