@@ -73,4 +73,4 @@ __References__
 [Linked Open Data Cloud] (http://linkeddatacatalog.dws.informatik.uni-mannheim.de/state/),
 [Easy RDF Getting Started] (http://www.easyrdf.org/docs/getting-started),
 [Green Turtle] (https://github.com/alexmilowski/green-turtle),
-
+[SPARQL End Point] (http://dbpedia.org/sparql/),
