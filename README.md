@@ -8,6 +8,7 @@ Studied LinkedData Engineering __LDE16__ at [open.hpi.de] (http://open.hpi.de) .
 * _OWL_ [Web Ontology Language] (https://www.w3.org/OWL/)
 * _SKOS_ [Simple Knowledge Organization System] (https://www.w3.org/2004/02/skos/)
 * _UMBEL_ [Upper Mapping and Binding Exchange Layer] (http://www.umbel.org/)
+* _SPARQL_ [Semantic Query Language] (https://en.wikipedia.org/wiki/SPARQL)
 
 ### Resource
 Resource can be uniquely identifiable and referenceable via URI.
