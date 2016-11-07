@@ -1,0 +1,19 @@
+@prefix dbo: <http://dbpedia.org/ontology/> .
+@prefix dbr: <http://dbpedia.org/resource/> .
+
+dbr:Captain_America:_Civil_War a dbo:Film ;
+  dbo:producer dbr:Kevin_Feige ;
+  dbo:starring dbr:Daniel_Brühl ,
+    dbr:Robert_Downey_Jr. ,
+    dbr:Scarlett_Johansson ;
+  dbo:distributor dbr:Walt_Disney_Studios_Motion_Pictures .
+dbr:Deadpool_(film) a dbo:Film ;
+  dbo:distributor dbr:20th_Century_Fox ;
+  dbo:starring dbr:Ryan_Reynolds .
+dbr:X-Men_Origins:_Wolverine a dbo:Film ;
+  dbo:starring dbr:Hugh_Jackman ,
+    dbr:Ryan_Reynolds .
+dbr:Scarlett_Johansson a dbo:Person .
+dbr:Robert_Downey_Jr. a dbo:Person .
+dbr:Daniel_Brühl a dbo:Person .
+dbr:Kevin_Feige a dbo:Person .
