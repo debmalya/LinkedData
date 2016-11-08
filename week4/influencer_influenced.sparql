@@ -1,0 +1,9 @@
+PREFIX : <http://dbpedia.org/resource/>
+PREFIX rdf: <http://www.w3.org/1999/02/22-rdf-syntax-ns#> 
+PREFIX rdfs: <http://www.w3.org/2000/01/rdf-schema#> 
+PREFIX dbo: <http://dbpedia.org/ontology/>
+SELECT ?influencer ?influenced FROM <http://dbpedia.org/> WHERE {
+   { :Emilio_Salgari dbo:influenced ?influenced . }
+UNION
+   { :Emilio_Salgari dbo:influencedBy ?influencer . }
+}
