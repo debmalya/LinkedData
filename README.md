@@ -76,6 +76,7 @@ __References__
 [SPARQL End Point] (http://dbpedia.org/sparql/),
 [the latest blazegraph.jar] (https://sourceforge.net/projects/bigdata/files/latest/download),
 [LODStats] (http://stats.lod2.eu/),
-[Linked Open Data Cloud] (http://lod-cloud.net/)
-
-
+[Linked Open Data Cloud] (http://lod-cloud.net/),
+[Linked Data Design Issues] (https://www.w3.org/DesignIssues/LinkedData.html),
+[Linked Data Book] (http://linkeddatabook.com/editions/1.0/),
+[Accessing Relational Database as Virtual RDF Graph] (http://d2rq.org/),
