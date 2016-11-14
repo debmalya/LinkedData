@@ -74,5 +74,8 @@ __References__
 [Easy RDF Getting Started] (http://www.easyrdf.org/docs/getting-started),
 [Green Turtle] (https://github.com/alexmilowski/green-turtle),
 [SPARQL End Point] (http://dbpedia.org/sparql/),
-[the latest blazegraph.jar] (https://sourceforge.net/projects/bigdata/files/latest/download).
+[the latest blazegraph.jar] (https://sourceforge.net/projects/bigdata/files/latest/download),
+[LODStats] (http://stats.lod2.eu/)
+[Linked Open Data Cloud] (http://lod-cloud.net/)
+
 
