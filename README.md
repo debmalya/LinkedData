@@ -80,3 +80,4 @@ __References__
 [Linked Data Design Issues] (https://www.w3.org/DesignIssues/LinkedData.html),
 [Linked Data Book] (http://linkeddatabook.com/editions/1.0/),
 [Accessing Relational Database as Virtual RDF Graph] (http://d2rq.org/),
+[SPARQL JavaScript Library] (http://www.thefigtrees.net/lee/blog/2006/04/sparql_calendar_demo_a_sparql.html)
