@@ -85,3 +85,5 @@ __References__
 [Parts of Speech] (http://parts-of-speech.info)
 [Natural Language Toolkit] (http://www.nltk.org)
 [Stanford Named Entity Recognizer] (http://nlp.stanford.edu/software/CRF-NER.shtml)
+[Tika and NER] (https://wiki.apache.org/tika/TikaAndNER)
+[You Visto Blog] (http://blog.yovisto.com)
