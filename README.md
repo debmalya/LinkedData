@@ -81,3 +81,7 @@ __References__
 [Linked Data Book] (http://linkeddatabook.com/editions/1.0/),
 [Accessing Relational Database as Virtual RDF Graph] (http://d2rq.org/),
 [SPARQL JavaScript Library] (http://www.thefigtrees.net/lee/blog/2006/04/sparql_calendar_demo_a_sparql.html)
+[RDF HDT] (http://www.rdfhdt.org)
+[Parts of Speech] (http://parts-of-speech.info)
+[Natural Language Toolkit] (http://www.nltk.org)
+[Stanford Named Entity Recognizer] (http://nlp.stanford.edu/software/CRF-NER.shtml)
